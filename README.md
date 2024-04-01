@@ -3,9 +3,13 @@ Bot rocket takeoff.
 This exercise has two game modes.
 
 The first option.
+
     Question: Has the rocket been launched yet?
+    
     Options:
+    
     🔹 Yes: provides release date.
+    
     🔹 No: keep playing.
 
 The second option
